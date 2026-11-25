@@ -29,8 +29,8 @@
     "tailwind-merge": "^3.7.1"
   },
   "devDependencies": {
-    "@dg-scripts/eslint-config": "^6.2.0",
-    "@dg-scripts/stylelint-config": "^6.2.0",
+    "@dg-scripts/eslint-config": "^6.3.0",
+    "@dg-scripts/stylelint-config": "^6.3.0",
     "@tailwindcss/vite": "^4.3.5",
     "@types/node": "^26.6.10",
     "@types/react": "^19.3.2",
