@@ -1,14 +1,3 @@
 {
-  "extends": "@dg-scripts/stylelint-config",
-  "rules": {
-    "at-rule-prelude-no-invalid": [
-      true,
-      {
-        "ignoreAtRules": [
-          "apply",
-          "media"
-        ]
-      }
-    ]
-  }
+  "extends": "@dg-scripts/stylelint-config"
 }
