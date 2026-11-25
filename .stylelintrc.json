@@ -1,8 +1,14 @@
 {
   "extends": "@dg-scripts/stylelint-config",
   "rules": {
-    "import-notation": [
-      "string"
+    "at-rule-prelude-no-invalid": [
+      true,
+      {
+        "ignoreAtRules": [
+          "apply",
+          "media"
+        ]
+      }
     ]
   }
 }
