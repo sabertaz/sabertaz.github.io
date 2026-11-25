@@ -1,8 +1,8 @@
-# sabertazimi.github.io
+# sabertaz.github.io
 
 [![Author](https://img.shields.io/badge/author-sabertaz-lightgrey?style=for-the-badge)](https://github.com/sabertaz)
-[![LICENSE](https://img.shields.io/github/license/sabertazimi/blog?style=for-the-badge)](https://raw.githubusercontent.com/sabertazimi/blog/main/LICENSE)
-[![Continuous Integration](https://img.shields.io/github/actions/workflow/status/sabertazimi/blog/ci.yml?branch=main&style=for-the-badge&logo=github)](https://github.com/sabertaz/blog/actions/workflows/ci.yml)
+[![LICENSE](https://img.shields.io/github/license/sabertaz/blog?style=for-the-badge)](https://raw.githubusercontent.com/sabertaz/blog/main/LICENSE)
+[![Continuous Integration](https://img.shields.io/github/actions/workflow/status/sabertaz/blog/ci.yml?branch=main&style=for-the-badge&logo=github)](https://github.com/sabertaz/blog/actions/workflows/ci.yml)
 
 My portfolio site.
 

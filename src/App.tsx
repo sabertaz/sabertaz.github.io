@@ -26,7 +26,7 @@ const Links = {
         icon: SiX,
       },
       Facebook: {
-        name: 'LinkedIn',
+        name: 'Facebook',
         url: 'https://facebook.com/sabertazimi',
         icon: SiFacebook,
       },
